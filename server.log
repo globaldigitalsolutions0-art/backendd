@@ -1,0 +1,245 @@
+Server log initialized
+[2025-08-26T19:22:41.981Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-26T19:22:41.983Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-26T19:23:43.789Z] [INFO] System info accessed by ::1
+[2025-08-26T19:23:43.821Z] [INFO] Database connection info accessed by ::1
+[2025-08-26T19:23:43.843Z] [INFO] Logs accessed by ::1, showing last 5 lines
+[2025-08-26T19:26:19.685Z] [INFO] System info accessed by ::1
+[2025-08-26T19:26:19.724Z] [INFO] Database connection info accessed by ::1
+[2025-08-26T19:26:19.767Z] [INFO] Logs accessed by ::1, showing last 5 lines
+[2025-08-26T19:36:05.340Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-26T19:36:05.343Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-27T01:16:28.552Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-27T01:16:28.555Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-27T16:24:31.729Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-27T16:24:31.731Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-27T18:41:07.420Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-27T18:41:07.432Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-27T23:40:20.047Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-27T23:40:20.050Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-28T18:41:57.779Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-28T18:41:57.785Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-28T19:39:27.715Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-28T19:39:27.718Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-28T19:40:19.424Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-28T19:40:19.426Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-28T21:23:57.190Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-28T21:23:57.206Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-28T21:27:22.027Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-28T21:27:22.029Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-28T21:54:52.009Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-28T21:54:52.014Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-28T22:00:08.919Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-28T22:00:08.922Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-28T22:04:36.301Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-28T22:04:36.304Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-28T22:07:10.768Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-28T22:07:10.771Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-29T16:25:39.447Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-29T16:25:39.451Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-29T16:52:32.621Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-29T16:52:32.659Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-29T21:39:09.888Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-29T21:39:09.926Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-29T21:46:26.660Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-29T21:46:26.665Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-29T21:50:03.872Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-29T21:50:03.877Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-29T21:55:19.491Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-29T21:55:19.494Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-29T21:57:50.787Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-29T21:57:50.792Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-29T22:00:28.351Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-29T22:00:28.354Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-29T22:02:23.603Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-29T22:02:23.605Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-29T22:03:45.173Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-29T22:03:45.176Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-29T22:15:20.495Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-29T22:15:20.497Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-30T21:02:25.819Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-30T21:02:25.835Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-08-30T22:06:02.985Z] [INFO] Attendance API on http://localhost:3001
+[2025-08-30T22:06:02.986Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T20:58:33.385Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T20:58:33.387Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T21:23:55.963Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T21:23:55.966Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T21:24:30.027Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T21:24:30.030Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T21:26:00.682Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T21:26:00.686Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T21:29:27.118Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T21:29:27.123Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T21:32:17.394Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T21:32:17.397Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T21:40:24.067Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T21:40:24.069Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T22:30:26.308Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T22:30:26.345Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T22:32:26.361Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T22:32:26.364Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T22:36:50.548Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T22:36:50.550Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T22:39:20.391Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T22:39:20.393Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T22:44:18.268Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T22:44:18.275Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T22:51:51.661Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T22:51:51.664Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T23:02:14.892Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T23:02:14.896Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T23:05:20.001Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T23:05:20.004Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T23:16:56.295Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T23:16:56.297Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T23:21:41.962Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T23:21:41.965Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T23:25:57.758Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T23:25:57.761Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T23:34:40.792Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T23:34:40.806Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-02T23:36:17.194Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-02T23:36:17.198Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T17:31:10.502Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T17:31:10.507Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T18:13:05.872Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T18:13:05.875Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T18:15:12.852Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T18:15:12.857Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T18:31:34.588Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T18:31:34.591Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T18:33:37.550Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T18:33:37.554Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T18:37:23.305Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T18:37:23.309Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T18:40:42.746Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T18:40:42.750Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T18:42:25.832Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T18:42:25.850Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T18:45:45.808Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T18:45:45.829Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T18:53:05.743Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T18:53:05.760Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T19:04:49.805Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T19:04:49.824Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T19:05:02.912Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T19:05:02.926Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:05:46.023Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:05:46.039Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:09:23.395Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:09:23.402Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:09:47.015Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:09:47.027Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:09:53.844Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:09:53.846Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:10:04.187Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:10:04.190Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:10:27.277Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:10:27.290Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:11:00.672Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:11:00.675Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:13:11.786Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:13:11.789Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:13:30.752Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:13:30.755Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:13:35.976Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:13:35.981Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:13:37.529Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:13:37.532Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:13:49.618Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:13:49.621Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:13:57.269Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:13:57.276Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:14:11.698Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:14:11.709Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:14:23.111Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:14:23.114Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:15:16.608Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:15:16.617Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:15:27.384Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:15:27.391Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:15:28.792Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:15:28.799Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:15:42.068Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:15:42.071Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:15:51.228Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:15:51.230Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:16:04.024Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:16:04.029Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:20:04.937Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:20:04.940Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:20:23.228Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:20:23.232Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:20:26.562Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:20:26.564Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:20:47.772Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:20:47.775Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:20:58.445Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:20:58.448Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:21:09.164Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:21:09.171Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:21:16.880Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:21:16.885Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T20:21:18.837Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T20:21:18.841Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:47:53.203Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:47:53.205Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:51:23.731Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:51:23.740Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:51:28.624Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:51:28.630Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:51:34.740Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:51:34.742Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:51:38.993Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:51:38.996Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:51:45.408Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:51:45.410Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:52:12.600Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:52:12.603Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:52:17.147Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:52:17.149Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:52:29.150Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:52:29.153Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:53:32.554Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:53:32.557Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:53:45.714Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:53:45.719Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:54:07.250Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:54:07.265Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:55:09.918Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:55:09.920Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:56:38.006Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:56:38.008Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:56:59.483Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:56:59.485Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:58:03.057Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:58:03.060Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:58:06.294Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:58:06.296Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:58:17.562Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:58:17.567Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T21:58:46.801Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T21:58:46.804Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-03T23:38:08.399Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-03T23:38:08.403Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-04T00:29:46.971Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-04T00:29:46.974Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-04T00:30:13.052Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-04T00:30:13.063Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-04T00:30:15.001Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-04T00:30:15.011Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-04T00:30:29.591Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-04T00:30:29.597Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-04T00:30:37.658Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-04T00:30:37.661Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-04T00:36:49.026Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-04T00:36:49.065Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-04T00:36:51.158Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-04T00:36:51.163Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-04T00:36:59.060Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-04T00:36:59.062Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-04T00:37:55.027Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-04T00:37:55.033Z] [INFO] Server console available at http://localhost:3001/api/console
+[2025-09-04T00:40:03.737Z] [INFO] Attendance API on http://localhost:3001
+[2025-09-04T00:40:03.739Z] [INFO] Server console available at http://localhost:3001/api/console
